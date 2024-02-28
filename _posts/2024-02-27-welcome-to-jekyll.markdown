@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "templates"
 date:   2024-02-27 19:18:55 -0600
 categories: jekyll update
 ---
