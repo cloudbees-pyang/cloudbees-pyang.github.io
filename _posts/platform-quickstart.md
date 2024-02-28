@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Platform QuickStart"
+permalink: /platform-quickstart
 categories: jekyll update
 ---
 
