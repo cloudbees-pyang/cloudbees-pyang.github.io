@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Platform QuickStart"
 permalink: /platform-quickstart
 categories: jekyll update
