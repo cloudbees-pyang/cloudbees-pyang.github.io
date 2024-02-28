@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Platform QuickStart
+title: "Platform QuickStart"
 permalink: /platform-quickstart
+categories: jekyll update
 ---
 
 # This is a quickstart guidance for CloudBees Platform 
